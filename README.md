@@ -23,6 +23,6 @@ Adentro de esa carpeta encontraremos el proyecto Client y el Server
 
 [![Captura-de-pantalla-2020-11-10-121908.png](https://i.postimg.cc/fR2tQFSy/Captura-de-pantalla-2020-11-10-121908.png)](https://postimg.cc/LJP6zxTF)
 
-Y listo!!! ya tenemos los dos proyectos el cliente y servidor y podremos abrirlo usando Pycharm Community Edition 2020.2
+Y listo!!! ya tenemos los dos proyectos el cliente y servidor y podremos abrirlos usando Pycharm Community Edition 2020.2 para proceder a ejecutarlos
 
 
