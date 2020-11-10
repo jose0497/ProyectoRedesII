@@ -6,3 +6,4 @@ Requerimientos de software
 
 Pycharm Community Edition 2020.2
 Microsoft SQL Server Management Studio
+
