@@ -9,4 +9,8 @@ conocer los requerimientos  para la construcción y la funcionalidad del sistema
     
   2. Microsoft SQL Server Management Studio
     [Link de desarga](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+    
+###### Descargar el Repositorio
+Para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
+
 
