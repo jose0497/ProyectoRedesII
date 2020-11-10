@@ -1,5 +1,5 @@
 # ProyectoRedesII
-Para poder ejecutar el programa y ver el codigo fuente en caso de futuros cambios se requiere de:
+El siguiente manual guiara a los usuarios que harán soporte al sistema o cambios, el cual les dará a
+conocer los requerimientos  para la construcción y la funcionalidad del sistema, en este caso el requerimiento es tener instalado
+
 Pycharm Community Edition 2020.2
-- Enlace de descarga:
->https://www.jetbrains.com/es-es/pycharm/download/#section=windows
