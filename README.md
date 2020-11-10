@@ -12,6 +12,6 @@ conocer los requerimientos  para la construcción y la funcionalidad del sistema
     
 ###### Descargar el Repositorio
 Para obtener este repositorio debes descargarlo desde el botón código(code) y seleccionar descargar cómo zip
-![descarga]()
+[![Captura-de-pantalla-2020-11-10-121016.png](https://i.postimg.cc/ncmphmDx/Captura-de-pantalla-2020-11-10-121016.png)](https://postimg.cc/TpTZkp0N)
 
 
